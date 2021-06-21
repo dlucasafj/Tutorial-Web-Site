@@ -1,9 +1,9 @@
 import React from 'react'
-import CardItem from './CardItem'
+import CardItem from './CardComponent/CardItem'
 import img9 from '../../assets/images/img-9.jpg'
 import img2 from '../../assets/images/img-2.jpg'
 import img3 from '../../assets/images/img-3.jpg'
-import './Cards.css'
+import './CardComponent/Cards.css'
 
 function Cards() {
     return (
