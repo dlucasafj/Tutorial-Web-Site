@@ -5,7 +5,7 @@ Este projeto é um web-site responsivo desenvolvido seguindo os passos de um tut
 ## Como Executar
 
 1. ### Clone o repositório
-    git clone https://github.com/dlucasafj/Tutorial-Web-Site
+    git clone https://github.com/dlucasafj/Tutorial-Web-Site.git
   
 2. ### Execute usando o comando 
     yarn start
